@@ -44,5 +44,7 @@ Flask corre a 0.0.0.0:8000
 SSH actiu al port 22 del contenidor
 
 📌 Requisits
+
   · Docker instal·lat
+  
   · Port 8000, 9001, 2123 lliures al host
